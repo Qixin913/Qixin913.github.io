@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qixin Liu / Stay Hungry Stay Foolish"
+title                    : "Liu,Qixin / Stay Hungry Stay Foolish"
 title_separator          : "-"
-name                     : &name "Qixin Liu"
+name                     : &name "Liu,Qixin"
 description              : &description "personal description"
 url                      : https://Qixin913.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
