@@ -10,23 +10,13 @@ location: "Suzhou, China"
 
 Applying.....
 
-Laboratory demonstration and support for practical work in the classroom
+DUTIES INCLUDE:
 ======
 
-Attendance on and support with field courses
-======
-
-Group tutoring
-======
-
-Scheduled office hours for one-to-one tutoring
-======
-
-Invigilation of formal examinations and/or class tests
-======
-
-Marking of formative assignments with appropriate training
-======
-
-Other appropriate activities as determined by academic units
-======
+1) Laboratory demonstration and support for practical work in the classroom
+2) Attendance on and support with field courses
+3) Group tutoring
+4) Scheduled office hours for one-to-one tutoring
+5) Invigilation of formal examinations and/or class tests
+6) Marking of formative assignments with appropriate training
+7) Other appropriate activities as determined by academic units
