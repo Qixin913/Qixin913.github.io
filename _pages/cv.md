@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Building Environment and Energy Engineering, FJUT, 2018
+* M.S. in Sustainable Energy Technology, XJTLU, 2024 (expected)
+* Ph.D in xxx, xxx University, (coming soon)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Channel operation intern
+  * Sina Weibo
+  * Duties included: Maintain the relationship between the company's colleges and universities
+  * Supervisor: Huanyu Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Management trainee
+  * Hisense Hitachi
+  * Duties included: HVAC design, business communication, personnel administration, etc
+  * Supervisor: Junjun Su
+  
+* Winter 2022: Campaign operation intern
+  * Sina Weibo
+  * Duties included: Planning and implementation of online campaign
+  * Supervisor: Huanyu Wang; Na Liu
+ 
+* Fall 2022: Overseas Marketing Intern
+  * Kuai Shou(Kwai/Snackvideo)
+  * Duties included: Market research
+  * Supervisor: Rita Zhang
   
 Skills
 ======
