@@ -15,16 +15,23 @@ Major Research Direction
 1.SET (Sustainable Energy Technology)
 
 Modeling and MPPT simulation analysis of shadow effects in PV arrays under partial shading
+
 Power System Network and Smart Grid
+
 Nuclear Energy Technology
+
 Integration of Energy Strategies in the Design of Buildings
 
 2.HVAC (Heating, ventilation and air conditioning)
+
 Direct Expansion Phase Change Thermal Energy Storage Air Conditioning System
+
 Natural Cooling Technology of Heat Pipe Type Phase Change Energy Storage in Mountainous Buildings（Studied under Associate Professor xm.Chen，Currently has one invention patent and one utility model patent）
 
 3.Gas Combustion and City Gas Planning
+
 Natural gas regional pipeline network planning and design theory (gas transmission and distribution, hydraulic calculations, gas demand estimation, etc.)
+
 Design theory for residential combustion appliances
 
 Contact details
