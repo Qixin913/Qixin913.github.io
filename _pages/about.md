@@ -11,8 +11,9 @@ redirect_from:
 My name is Liu Qixin, a member of the Chinese Society of Engineering Thermophysics. I usually try lots of new things, so I have spent time in many places, working as an HVAC designer at Hisense Hitachi, as an operator at Sina, and as a marketing brand manager at KuaiShou. My career path is in the energy and power industry, overseas marketing, and product event operations. I hope to make a small contribution to the popularization of science in the field of sustainable energy.
 
 Major Research Direction
-======
+------
 1.SET (Sustainable Energy Technology)
+
 Modeling and MPPT simulation analysis of shadow effects in PV arrays under partial shading
 Power System Network and Smart Grid
 Nuclear Energy Technology
@@ -27,7 +28,7 @@ Natural gas regional pipeline network planning and design theory (gas transmissi
 Design theory for residential combustion appliances
 
 Contact details
-======
+------
 Email: [Q.Liu58@liverpool.ac.uk](mailto:Q.Liu58@liverpool.ac.uk)
 
 For more info
