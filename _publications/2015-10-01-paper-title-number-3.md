@@ -1,5 +1,5 @@
 ---
-title: "‘碳达峰和碳中和’背景下，我国核电发电 以及传统发电形式在民用目的中的比较研究"
+title: "‘双碳’下，我国xxx发电xxxxxxxx研究xxx"【暂未刊登上线不写全名】
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
