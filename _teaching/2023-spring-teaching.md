@@ -1,5 +1,5 @@
 ---
-title: "MEC106 Engineering Drawing, Enrolled Students Numbers: 175 (2022)"
+title: "MEC106 Engineering Drawing, Enrolled Students Numbers: 205 (2023)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2023-spring-teaching-1
