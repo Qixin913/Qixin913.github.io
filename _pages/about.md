@@ -24,7 +24,7 @@ Active Distribution Systems
 
 Multi Energy Systems
 
-Major Research Direction
+Expertise related to UN Sustainable Development Goals
 ------
 In 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. This person’s work contributes towards the following SDG(s):
 
