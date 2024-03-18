@@ -24,6 +24,13 @@ Active Distribution Systems
 
 Multi Energy Systems
 
+Major Research Direction
+------
+In 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. This person’s work contributes towards the following SDG(s):
+
+<img src='/images/affordable_and_clean_energy-3ef7b8830c5ae63dc37fecf9e07b7fb8.svg'>
+
+
 Contact me
 ------
 Email: [Q.Liu58@liverpool.ac.uk](mailto:Q.Liu58@liverpool.ac.uk)
