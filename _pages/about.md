@@ -12,27 +12,17 @@ My name is Liu Qixin, a member of the Chinese Society of Engineering Thermophysi
 
 Major Research Direction
 ------
-1.SET (Sustainable Energy Technology)
+Power System Optimization
 
-Modeling and MPPT simulation analysis of shadow effects in PV arrays under partial shading
+Renewable Energy Generation and Integration
 
-Power System Network and Smart Grid
+Energy Sharing and Trading
 
-Nuclear Energy Technology
+Application of Artificial Intelligence in Smart Grids
 
-Integration of Energy Strategies in the Design of Buildings
+Active Distribution Systems
 
-2.HVAC (Heating, ventilation and air conditioning)
-
-Direct Expansion Phase Change Thermal Energy Storage Air Conditioning System
-
-Natural Cooling Technology of Heat Pipe Type Phase Change Energy Storage in Mountainous Buildings（Studied under Associate Professor xm.Chen，Currently has one invention patent and one utility model patent）
-
-3.Gas Combustion and City Gas Planning
-
-Natural gas regional pipeline network planning and design theory (gas transmission and distribution, hydraulic calculations, gas demand estimation, etc.)
-
-Design theory for residential combustion appliances
+Multi Energy Systems
 
 Contact details
 ------
@@ -40,4 +30,5 @@ Email: [Q.Liu58@liverpool.ac.uk](mailto:Q.Liu58@liverpool.ac.uk)
 
 For more info
 ------
-本人学术小菜鸡一枚，若有大佬路过请多多指教~(^▽^)如果能带带弟弟自然是最好啦，渴望抱上大佬大腿，走上人生巅峰！俗话说得好不想当院士的运营不是好设计师，不出意外的话24年秋季会打算申博（方向还比较模糊），有同样想法的同仁欢迎给我发邮件（互联网鱼龙混杂，微信手机号啥的还是码一下吧所以通过邮件我们再进一步加上~）一起交流经验。祝大家都事事顺利！
+虽然目前不知道能不能继续在学术圈混下去，但是还是有一个学术梦，有同样想法的同仁欢迎给我发邮件，一起交流经验。祝大家都事事顺利！
+Although I don't know if I can continue in the academic world at the moment, I still dream of becoming a PhD. Colleagues with the same idea are welcome to email me and share their experiences together. I wish you all the best in everything!
