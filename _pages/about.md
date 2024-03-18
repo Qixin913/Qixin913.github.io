@@ -24,7 +24,7 @@ Active Distribution Systems
 
 Multi Energy Systems
 
-Contact details
+Contact me
 ------
 Email: [Q.Liu58@liverpool.ac.uk](mailto:Q.Liu58@liverpool.ac.uk)
 
