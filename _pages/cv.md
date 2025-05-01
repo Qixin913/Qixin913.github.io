@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Building Environment and Energy Engineering, FJUT, 2018
 * M.S. in Sustainable Energy Technology, XJTLU, 2024 (expected)
-* Ph.D in xxx, xxx University, (coming soon)
+* Ph.D in EEE, University of Liverpool,2028
 
 Work experience
 ======
