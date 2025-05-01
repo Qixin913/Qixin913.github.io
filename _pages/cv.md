@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.E. in Building Environment and Energy Engineering, FJUT, 2018
-* M.S. in Sustainable Energy Technology, XJTLU, 2024 (expected)
-* Ph.D in EEE, University of Liverpool,2028
+* M.S. in Sustainable Energy Technology, XJTLU, 2024 
+* Ph.D in EEE, University of Liverpool,2028 (expected)
 
 Work experience
 ======
