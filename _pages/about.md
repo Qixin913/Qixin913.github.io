@@ -38,5 +38,4 @@ Email: [Q.Liu58@liverpool.ac.uk](mailto:Q.Liu58@liverpool.ac.uk)
 
 For more info
 ------
-虽然目前不知道能不能继续在学术圈混下去，但是还是有一个学术梦，有同样想法的同仁欢迎给我发邮件，一起交流经验。祝大家都事事顺利！
-Although I don't know if I can continue in the academic world at the moment, I still dream of becoming a PhD. Colleagues with the same idea are welcome to email me and share their experiences together. I wish you all the best in everything!
+虽然目前不知道能不能继续在学术圈混下去，但是还是有一个学术梦，有同样想法的同仁欢迎给我发邮件，一起交流经验。祝大家都事事顺利！(心软审稿人会出现吗）
