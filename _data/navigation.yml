@@ -1,20 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: " "
     url: /publications/
 
-  - title: "Talks"
+  - title: " "
     url: /talks/    
 
-  - title: "Teaching"
+  - title: " "
     url: /teaching/    
         
-  - title: "Blog Posts"
+  - title: " "
     url: /year-archive/
     
-  - title: "CV"
+  - title: " "
     url: /cv/
-    
-    
-  - title: "Forum（给我留言）"
-    url: http://forum.liuqi.xin/
+
