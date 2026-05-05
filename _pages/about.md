@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Liu Qixin, a member of the Chinese Society of Engineering Thermophysics. I usually try lots of new things, so I have spent time in many places, working as an HVAC designer at Hisense Hitachi, as an operator at Sina, and as a marketing brand manager at KuaiShou. My career path is in the energy and power industry, overseas marketing, and product event operations. I hope to make a small contribution to the popularization of science in the field of sustainable energy.
+Hi! I'm Qixin Liu. As I like trying new things, I have worked or internship experience in many companies or relevant organizations, such as Hitachi, Sina, Kuaishou and Microsoft Xiaoice. I am currently working on my PhD, and I hope to make some contributions to the development of the field of battery storage.
 
 Major Research Direction
 ------
